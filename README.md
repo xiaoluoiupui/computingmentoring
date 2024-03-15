@@ -3,7 +3,6 @@ This respository includes designed computing mentoring survey questions based on
 Please cite our publications when you use these materials. 
 
 Improving Perceptions of Underrepresented Students towards Computing Majors through Mentoring
-
 Shamima Mithun, Xiao Luo
 
 Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education
